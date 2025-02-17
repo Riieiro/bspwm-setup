@@ -36,11 +36,10 @@ Once the environment is installed, you need to change it in the login panel:
 ![Pasted image 20250216231829](https://github.com/user-attachments/assets/4bd65aef-2148-4732-80a0-1b191f0169af)
 
 ## Overview
-![imagen](https://github.com/user-attachments/assets/3841894c-57e7-4d2d-a345-d95842de8ba5)
-![imagen](https://github.com/user-attachments/assets/b0948330-1927-4341-bd9e-4330b1e8cfb3)
-![imagen](https://github.com/user-attachments/assets/a3a36b66-a525-4b2c-9842-3fe731523029)
-
-
+![imagen](https://github.com/user-attachments/assets/5d27f12c-ae04-4808-b329-91f8deff3794)
+![imagen](https://github.com/user-attachments/assets/9708ab8a-362a-44bf-a1cb-fcc62cd5891a)
+![imagen](https://github.com/user-attachments/assets/a28a5c37-6828-4a18-abfe-b2e24cabbdae)
+![imagen](https://github.com/user-attachments/assets/02128d09-a90e-4ee0-886f-4cc5f5cf1eb6)
 
 # Keybindings for bspwm
 
