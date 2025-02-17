@@ -33,7 +33,8 @@ chmod +x setup.sh
 
 Once the environment is installed, you need to change it in the login panel:
 
-![Pasted image 20250216231829](https://github.com/user-attachments/assets/4bd65aef-2148-4732-80a0-1b191f0169af)
+![imagen](https://github.com/user-attachments/assets/500a63c9-3b1a-4608-b23f-0e5af0c7c66d)
+
 
 ## Overview
 ![imagen](https://github.com/user-attachments/assets/5d27f12c-ae04-4808-b329-91f8deff3794)
