@@ -23,3 +23,4 @@ picom &
 bspc config border_width 0
 vmname LG3D &
 vmware-user-suid-wrapper &
+export _JAVA_AWT_WM_NONREPARENTING=1
